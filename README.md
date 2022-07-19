@@ -1,7 +1,7 @@
 ### Olá, Roberta aqui! 👋
 
 
-- 🌱 Estou aprendendo C#, Flutter e outras linguagens
+- 🌱 Estou estudando C#, Flutter e outras linguagens
 
 ##
 
