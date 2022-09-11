@@ -1,8 +1,5 @@
 ### Olá, Roberta aqui! 👋
 
-
-- 🌱 Estou estudando C#, Flutter e outras linguagens
-
 ##
 
 <div align="center">
