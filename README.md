@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberta-oliveira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-## Ferramentas e Tecnologias:
+## Ferramentas e Tecnologias
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Beta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,7 +24,7 @@
   
   
   
- ## Contatos: 
+ ## Contatos 
   
 <div>
 <a href = "mailto:roberta.live15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
