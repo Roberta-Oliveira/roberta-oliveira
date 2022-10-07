@@ -22,3 +22,7 @@
   <img align="right" alt="Beta-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202207/338224_WtUKuJDz.png">
 </div>
   
+<div>
+<a href = "mailto:roberta.live15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/roberta-oliveira-avelino-14b0a4157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
